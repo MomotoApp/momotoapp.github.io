@@ -10,3 +10,4 @@
 </div>
 
 <script rel="text/javascript" src="/JAVASCRIPT/MainNavigationJavascript.js"></script>
+<link rel="stylesheet" type="text/css" href="/CSS/MainNavigationStyle.css">
