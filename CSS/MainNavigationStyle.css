@@ -1,0 +1,60 @@
+.main_navigation_class {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.main_navigation_class li {
+    float: left;
+}
+
+.main_navigation_class li span a {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+#navC1_id {
+    width: 33.33%;
+}
+
+#navC2_id {
+    width: 33.34%;
+}
+
+#navC3_id {
+    width: 33.33%;
+}
+
+.main_navigation_class li span a {
+    width: 100%;
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.main_navigation_class li span a:hover {
+    background-color: #555;
+}
+
+.navCMobile {
+    background: #9FF
+}
+
+@media screen and (max-width:500px) {
+    .main_navigation_class {
+	position: relative;
+    }
+    .main_navigation_class li {
+	width: 100%;
+	float: none;
+	display: inline;
+    }
+    .main_navigation_class li span a {
+	display: block;
+    }
+}
