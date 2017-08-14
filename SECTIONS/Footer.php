@@ -1,4 +1,4 @@
-<div class="FooterWrap">
+<div class="FooterWrap_class">
   <span>Copyright &copy; Redym Ltd</span>
   <span>
     <a href="#"><img src="ASSETS/Facebook_Icon.png" alt="Facebook Profile" height="20px" width="20px"></a>
