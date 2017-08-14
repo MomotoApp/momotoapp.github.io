@@ -20,7 +20,7 @@ footer {
   clear: both;
 }
 
-.MainWrap_id {
+.MainWrap_class {
   min-height: 100%;
   width: 80%;
   margin: auto;
@@ -36,7 +36,7 @@ footer {
 }
 
 @media screen and (min-width:950px) {
-  .MainWrap_id {
+  .MainWrap_class {
     width: 760px;
   }
 }
