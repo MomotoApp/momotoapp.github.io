@@ -36,7 +36,7 @@ footer {
 }
 
 @media screen and (min-width:950px) {
-  .main_wrap {
+  .MainWrap_id {
     width: 760px;
   }
 }
