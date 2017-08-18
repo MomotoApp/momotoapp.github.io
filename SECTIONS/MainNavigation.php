@@ -1,6 +1,6 @@
 <ul id="main_navigation_id" class="main_navigation_class">
-  <li id="navC3_id"><span><a href="#" data-type="AboutContents">REDYM</a></span></li>
-  <li id="navC2_id"><span><a href="#" data-type="WorksContents">MOMOTO</a></span></li>
+  <li id="navC3_id"><span><a href="#" data-type="RedymSection">REDYM</a></span></li>
+  <li id="navC2_id"><span><a href="#" data-type="MomotoSection">MOMOTO</a></span></li>
   <li id="navC1_id"><span><a href="#" data-type="ContactContents">CONTACT</a></span></li>
 </ul>
 <div>
